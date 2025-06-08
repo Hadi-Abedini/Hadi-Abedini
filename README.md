@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working in Arthall
-- 🌱 I’m currently learning next.js
+- 🔭 I’m currently working in Gardoon
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadi-zein-alabedini-a58921231/) 
